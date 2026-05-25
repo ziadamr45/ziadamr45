@@ -10,6 +10,24 @@
 
 ---
 
+### 📋 معلومات مهمة | Key Info
+
+| 🎯 الحالة | 🧠 التركيز | 🏆 الهدف | 💡 حقيقة | 🚀 الرسالة |
+|-----------|-----------|----------|---------|-----------|
+| 🔓 متاح للعمل | بناء منتجات رقمية | هندسة البرمجيات | بدأت البرمجة وأنا 14 سنة | التقنية أداة لحل المشكلات |
+
+| 🎯 Status | 🧠 Focus | 🏆 Goal | 💡 Fact | 🚀 Mission |
+|-----------|---------|--------|--------|----------|
+| 🔓 Available for work | Building digital products | Software engineering | Started coding at 14 | Technology is a problem-solving tool |
+
+---
+
+### 💝 ادعمني | Support Me
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤-ff69b4?style=flat-square&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/ziadamr45)
+
+---
+
 ### 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -37,9 +55,13 @@
 ### 🔗 Links
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ziadamrme.vercel.app-orange?style=flat-square&logo=vercel&logoColor=white)](https://ziadamrme.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ziad_Amr-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ziadamr45)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ziad_Amr-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ziad-amr-44633a411)
+[![Facebook](https://img.shields.io/badge/Facebook-ziad7mr-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ziad7mr)
+[![Telegram](https://img.shields.io/badge/Telegram-@ziadamr-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ziadamr)
+[![Instagram](https://img.shields.io/badge/Instagram-ziadamr455-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ziadamr455/)
+[![X](https://img.shields.io/badge/X-@ziad90216-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ziad90216)
 [![YouTube](https://img.shields.io/badge/YouTube-الحياة_على_الطريق-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@alhayat_ala_eltarek?si=pcsc_31Kcv3Jym14)
-[![Email](https://img.shields.io/badge/Email-ziadamr45@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ziadamr45@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ziad90216@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ziad90216@gmail.com)
 
 ---
 
