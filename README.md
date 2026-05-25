@@ -30,7 +30,7 @@
 | React 19 | Node.js | VS Code |
 | Next.js 16 | Firebase Auth | npm / Bun |
 | TypeScript 5 | Firebase Firestore | Docker |
-| Tailwind CSS 4 | Web Push API | Railway |
+| Tailwind CSS3 4 | Web Push API | Railway |
 | shadcn/ui | NextAuth | Socket.io |
 | Framer Motion | Cookie Authentication | ImgBB |
 | React Query | LiveKit | Netlify |
