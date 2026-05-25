@@ -10,24 +10,6 @@
 
 ---
 
-### 📋 معلومات مهمة | Key Info
-
-| 🎯 الحالة | 🧠 التركيز | 🏆 الهدف | 💡 حقيقة | 🚀 الرسالة |
-|-----------|-----------|----------|---------|-----------|
-| 🔓 متاح للعمل | بناء منتجات رقمية | هندسة البرمجيات | بدأت البرمجة وأنا 14 سنة | التقنية أداة لحل المشكلات |
-
-| 🎯 Status | 🧠 Focus | 🏆 Goal | 💡 Fact | 🚀 Mission |
-|-----------|---------|--------|--------|----------|
-| 🔓 Available for work | Building digital products | Software engineering | Started coding at 14 | Technology is a problem-solving tool |
-
----
-
-### 💝 ادعمني | Support Me
-
-[![Sponsor](https://img.shields.io/badge/Sponsor-❤-ff69b4?style=flat-square&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/ziadamr45)
-
----
-
 ### 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
