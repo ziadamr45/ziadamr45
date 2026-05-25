@@ -36,7 +36,7 @@
 
 ### 🔗 Links
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ziadamr.me-orange?style=flat-square&logo=vercel&logoColor=white)](https://ziadamr.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ziadamrme.vercel.app-orange?style=flat-square&logo=vercel&logoColor=white)](https://ziadamrme.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ziad_Amr-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ziadamr45)
 [![YouTube](https://img.shields.io/badge/YouTube-الحياة_على_الطريق-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@alhayat_ala_eltarek?si=pcsc_31Kcv3Jym14)
 [![Email](https://img.shields.io/badge/Email-ziadamr45@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ziadamr45@gmail.com)
@@ -46,3 +46,9 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ziadamr45&style=flat-square&color=58a6ff" alt="Profile Views" />
 </div>
+
+---
+
+<p align="center">
+  Powered by <a href="https://ziadamrme.vercel.app/">Ziad Amr</a>
+</p>
