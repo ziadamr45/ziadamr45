@@ -2,9 +2,9 @@
 
 # Hi, I'm Ziad Amr 👋
 
-**Frontend / Full Stack Developer** from Egypt 🇪🇬
+**طالب مهتم بالويب والتقنية** 🇪🇬
 
-**طالب مهتم بالويب والتقنية**
+**Frontend / Full Stack Developer** from Egypt 🇪🇬
 
 </div>
 
@@ -50,6 +50,5 @@
 ---
 
 <p align="center">
-  Powered by <a href="https://ziadamrme.vercel.app/">Ziad Amr</a>
+  مدعوم بواسطة <a href="https://ziadamrme.vercel.app/">زياد عمرو</a> | Powered by <a href="https://ziadamrme.vercel.app/">Ziad Amr</a>
 </p>
-
